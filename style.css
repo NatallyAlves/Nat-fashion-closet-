@@ -2,6 +2,12 @@ body {
     background: #CCCCCC
 }
 
+
+.principal{
+     background: #b8b6b6;
+    padding: 30px;
+} 
+
 p {
   text-align: center;
 }
