@@ -5,13 +5,14 @@ body {
 p {
   text-align: center;
 }
-em strong {
-    color: #FF0000;
-}
-
 
 h1 { 
     text-align: center;
+}
+
+
+em strong {
+    color: #FF0000;
 }
 
 #missao {
