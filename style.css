@@ -5,11 +5,13 @@ body {
 
 .principal{
      background: #b8b6b6;
-    padding: 30px;
+    padding: 10px;
 } 
 
 p {
   text-align: center;
+  padding: 1px;
+  font-size: 30px;
 }
 
 h1 { 
@@ -45,8 +47,10 @@ ul {
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
+    font-size: 30px;
 }
 
 .imagembeneficios { 
-   width: 100%%;
+   width: 100%;
 } 
+
