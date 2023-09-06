@@ -32,7 +32,11 @@ em strong {
 }
 
 
-.img {
+.itens {
+    font-style: italic
+}
+
+.beneficios {
       background: #FFFFFF;
       padding: 30px;
 }
