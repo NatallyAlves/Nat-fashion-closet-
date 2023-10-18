@@ -22,3 +22,9 @@ nav a {
       margin: 0 auto;
       
   }
+
+nav {
+poition: absolute;
+top: 110px;
+right: 0; 
+} 
