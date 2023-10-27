@@ -34,6 +34,9 @@ right: 0;
     text-align:center;
     width: 30%;
     vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
 }
 
 .produtos {
@@ -50,6 +53,7 @@ right: 0;
 .produto-preço {
     font-size:22px;
     font-weight: bold;
+    margin: 10px 0 0 0;
 }
 
 .produto-descricao
