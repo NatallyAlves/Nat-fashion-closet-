@@ -1,6 +1,6 @@
 header {
     background #BBBBBB;
-    padding:20px;
+    padding:20px 0;
 }
 
 nav li {
@@ -53,7 +53,7 @@ right: 0;
 .produto-preço {
     font-size:22px;
     font-weight: bold;
-    margin: 10px 0 0 0;
+    margin-top: 10px 0 0 0;
 }
 
 .produto-descricao
